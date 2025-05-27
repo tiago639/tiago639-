@@ -16,13 +16,32 @@ Sou um profissional de dados com experiência sólida em automação de processo
 
 ## 🧠 Principais Competências
 
-- **Automação de Processos** com Power Automate  
-- **Modelagem e Visualização de Dados** com Power BI, DAX e Power Query  
-- **Manipulação de Dados** com SQL (Oracle/SQL Server)  
-- **Scripts para ETL** e análise com Python  
-- **Extração de Dados** via SharePoint, APIs, VBA  
-- **Engenharia de Dados**: Data Warehouse, Data Lake, Azure Data Factory  
-- **Machine Learning Preditivo**
+### 💻 Linguagens e Bancos de Dados
+- SQL (SQL Server, Oracle, MySQL)  
+- PL/SQL  
+- Python para Análise e ETL  
+- VBA para Excel e automações
+
+### 📊 Business Intelligence e Visualização
+- Power BI (DAX, Power Query, visualizações)  
+- ETL com Power Query e Azure Data Factory  
+- Modelagem Dimensional  
+- Construção de dashboards interativos com foco na usabilidade  
+- Criação e monitoramento de KPIs e indicadores estratégicos
+
+### 🔄 Automação e Integrações
+- Power Automate / Power Apps  
+- Integração com Office 365 (Excel, Outlook, SharePoint)  
+- Consumo e envio de dados via APIs
+
+### 🧠 Dados e Inteligência Analítica
+- Análise de Dados e Inteligência de Mercado  
+- Machine Learning preditivo com Python  
+- Projetos em Data Warehouse e Data Lake  
+- Governança, padronização e qualidade de dados  
+- Lógica de programação aplicada à engenharia de dados
+
+---
 
 ---
 
